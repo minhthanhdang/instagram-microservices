@@ -1,0 +1,4 @@
+cluster.name: my-cluster
+node.name: my-node
+network.host: 0.0.0.0
+discovery.type: single-node
